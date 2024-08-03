@@ -1,0 +1,30 @@
+.layout {
+    margin: 10px;
+}
+
+.book-form {
+    width: 700px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+
+
+.book-input {
+    width: 75%;
+    max-width: 500px;
+}
+
+.row-edit {
+    display: flex;
+    gap: 5px
+}
